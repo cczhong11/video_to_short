@@ -2,3 +2,5 @@
 *.mp3
 *.txt
 .DS_Store
+*.json
+*.pyc
